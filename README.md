@@ -1,5 +1,10 @@
 # mobilemall
 
+## Project Description
+```
+Demo project for online mall base on vue.
+```
+
 ## Project setup
 ```
 npm install
